@@ -7,7 +7,7 @@ import Dummy from './pages/Kilometerpage'
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={'/Restaurant-app/'}>
         <Switch>
         
         <Route exact path="/">
