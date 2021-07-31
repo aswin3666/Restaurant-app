@@ -1,0 +1,65 @@
+.locationbtn{
+    width: 440PX;
+    height: 90PX;
+    margin-left: 35%;
+    margin-top: 30px;
+    font-size: 36PX;
+    font-weight: 700;
+    pointer-events: none;
+}
+.location1{
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 400px;
+}
+.icon2{
+    margin-left: 450px;
+    color: red;
+}
+.icon1{
+    margin-left: 72px;
+  
+}
+.icon1n{
+    font-size: 16px;
+}
+.icon2n{
+    font-size: 16px;
+}
+.foot{
+    margin-top: 450px;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 450px) {
+    .locationbtn{
+        width: 280PX;
+        height: 80PX;
+        margin-left: 10%;
+        font-size: 30PX;
+        font-weight: 700;
+        pointer-events: none;
+        line-height: 10px;
+    }
+    .location1{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .icon2{
+        margin-left: 24px;
+        color: red;
+    }
+    .icon1{
+        margin-left: 20px;
+      
+    }
+    .foot{
+        margin-top: 350px;
+        color: aliceblue;
+        font-weight: 600;
+    }
+    
+ 
+    
+}

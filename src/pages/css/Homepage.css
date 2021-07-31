@@ -1,0 +1,19 @@
+.MainFirst{
+    margin-left:300px;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+.foot1{
+    margin-top: 100px;
+    color: aliceblue;
+    font-weight: 600;
+}
+@media only screen and (max-width: 450px) {
+    .MainFirst{
+        margin-left:20px;
+    }
+    .foot1{
+        margin-top: 80px;
+    }
+    
+}

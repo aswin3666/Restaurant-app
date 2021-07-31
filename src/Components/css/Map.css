@@ -1,0 +1,41 @@
+.search1{
+    display: flex;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+.search11{
+width: 380px;
+}
+.search12{
+    margin-left: 15PX;
+    width: 380px;
+    
+}
+.search13{
+    margin-left: 15PX;
+    width: 100px;
+}
+@media only screen and (max-width: 450px) {
+    .search1{
+        display: contents;
+    }
+    .search11{
+    width: 260px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 30px;
+    }
+    .search12{
+        width: 260px;
+        height: 30px;
+        margin-left: 40px;
+        margin-top: 30px;
+        
+    }
+    .search13{
+        width: 260px;
+        margin-top: 34px;
+        height: 40px;
+        margin-left: 40px;
+    }    
+}
