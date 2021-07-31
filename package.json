@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aswin3666.github.io/Restaurant-app",
+  "homepage": "https://nostalgic-franklin-8150de.netlify.app/",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/lab": "^4.0.0-alpha.60",
